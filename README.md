@@ -1,4 +1,4 @@
-;# SmartHome
+# SmartHome
 Projeto disciplina AOC
 
 Smart Home
