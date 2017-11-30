@@ -26,11 +26,11 @@ Versão : 1.0
    
    Versão: 1.2		
    
-	Exibe o nome da aplicação
+//Exibe o nome da aplicação
 	
 echo "Smart Home V1.2"
 
-Inicia o loop
+//Inicia o loop
 
 while true; do
 
