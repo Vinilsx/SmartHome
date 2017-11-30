@@ -20,7 +20,7 @@ Versão : 1.0
 
    API   : Smart Home	
    
-   Autor : Filipe Henrique Calhau da Silva	
+   Autor : Filipe Henrique Calhau da Silva, Felipe Mascarenhas, Vinicius Lira Souza, Leonardo Marchi
    		
    Data  : 20/11/2017			
    
@@ -46,6 +46,14 @@ fast-gpio set 1 ${conteudo:1:1}	# Configura o valor do pino de acordo com o segu
  
 
 sleep 1; done	# Aguarda 1 segundo e inicia o loop novamente
+
+# Diagramas
+
+https://github.com/Vinilsx/SmartHome/blob/master/Diagrama%20completo.pdf
+
+https://github.com/Vinilsx/SmartHome/blob/master/Diagrama%20omega2%2B.pdf
+
+https://github.com/Vinilsx/SmartHome/blob/master/Diagrama%20servidor.pdf
 
 
 # Pré-Requisitos 
