@@ -1,0 +1,2 @@
+# SmartHome
+Projeto disciplina AOC
