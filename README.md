@@ -32,7 +32,7 @@ fast-gpio set-output 0		# Configura o pino '0' como saida(output)
 fast-gpio set 0 ${conteudo:0:1}	# Configura o valor do pino de acordo com o primeiro caracter do conteudo
 fast-gpio set-output 1		# Configura o pino '1' como saida(output)
 fast-gpio set 1 ${conteudo:1:1}	# Configura o valor do pino de acordo com o segundo caracter do conteudo
-
+ 
 
 sleep 1; done	# Aguarda 1 segundo e inicia o loop novamente
 
